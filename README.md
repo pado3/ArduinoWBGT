@@ -6,4 +6,5 @@ Indoor WBGT meter with ATmega328P and ATtiny85<br />
 mainブランチにあるWBGT01.inoが当初のスケッチ、<br />
 WBGT03ブランチにあるものがATmega328P上でメモリ削減したスケッチ、<br />
 WBGT03sブランチにあるものがATtiny85上で動作しているスケッチです。<br />
+一連の内容を、ブログにまとめています： http://pado.tea-nifty.com/top/2020/10/post-949a74.html <br />
 ご利用は自己責任でお願いします。
